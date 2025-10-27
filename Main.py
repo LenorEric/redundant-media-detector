@@ -14,7 +14,7 @@ SAMPLE_POINTS = 5
 WINDOW_RADIUS = 2                # ±2 → 5 frames per point
 SIM_THRESHOLD = 0.98
 DURATION_TOL = 2.0               # seconds
-FRAME_BUFFER = 2048              # fixed
+FRAME_BUFFER = 256              # fixed
 BATCH_SIZE = 32                  # fixed
 EMB_DIM = 768                    # ViT-L-14
 
